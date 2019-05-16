@@ -1,4 +1,4 @@
-(defproject tomlseq "0.1.0-SNAPSHOT"
+(defproject tomlseq "0.1.0"
   :description "A sequencing preprocessor for toml tables"
   :url "https://github.com/jabgibson/tomlseq-clj"
   :license {:name "The Unlicense"
